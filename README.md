@@ -1,4 +1,5 @@
 # PasswordGenerator
+
 Task
 
 For this project we created a Password Generator, that use JavaScript to generate a ramdon but secure password.
